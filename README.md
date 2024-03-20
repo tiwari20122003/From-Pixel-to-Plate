@@ -17,9 +17,13 @@ Simply snap a picture of your favorite dish, and our cutting-edge system will an
 **What Makes Us Special?**
 
 **Deep Learning Genius:** Our system uses advanced image recognition to pinpoint ingredients and cooking methods from your food photos.
+
 **Mastering Food Lingo:** We leverage natural language processing to create instructions that are easy to understand and follow.
+
 **Simple to Use:** Our user-friendly web or mobile app makes recipe generation a breeze.
+
 **Endless Food Adventures:** Discover new dishes and cuisines just by snapping a picture!
+
 
 **Ready to Get Cooking?**
 
