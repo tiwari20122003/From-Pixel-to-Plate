@@ -32,3 +32,7 @@ Here's how to set up our app and unleash your inner chef:
 1. **Download the Magic Files:** Grab the essential files (Modelbest.ckpt, ingr_vocab.pkl, instr_vocab.pkl) and replace the ones in the "Foodimg2Ing/data/" folder.
 2. **Power Up Your Computer:** Open your terminal and install the required libraries using "pip install -r requirements.txt".
 3. **Let's Cook!** Run "python run.py" and a link will appear. Open it in your browser to start creating recipes from any food photo!
+
+**DEMO:-**
+
+![foodreceipe](https://github.com/tiwari20122003/From-Pixel-to-Plate/assets/103639295/06826f82-acf2-4961-8c0f-629a4bec2588)
