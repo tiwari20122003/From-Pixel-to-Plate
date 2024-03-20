@@ -8,7 +8,9 @@
 Simply snap a picture of your favorite dish, and our cutting-edge system will analyze it to generate a complete recipe, including:
 
 **Tempting Title:** A mouthwatering name to get your taste buds excited.
+
 **Ingredient Breakdown:** A detailed list of everything you'll need.
+
 **Step-by-Step Guide:** Clear instructions to make the dish perfectly.
 
 **What Makes Us Special?**
