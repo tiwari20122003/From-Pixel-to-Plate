@@ -13,6 +13,7 @@ Simply snap a picture of your favorite dish, and our cutting-edge system will an
 
 **Step-by-Step Guide:** Clear instructions to make the dish perfectly.
 
+
 **What Makes Us Special?**
 
 **Deep Learning Genius:** Our system uses advanced image recognition to pinpoint ingredients and cooking methods from your food photos.
