@@ -1,38 +1,49 @@
-# From-Pixel-to-Plate
-**Craving a Dish from a Pic? We've Got You Covered!**
+![ViewCount](https://views.whatilearened.today/views/github/navassherif98/Recipe-Generation-from-Food-Image.svg?cache=remove)
 
-**Ever stare at a photo of a delicious meal, longing to recreate it but clueless about the recipe?** We've all been there. Worry no more! Our "Recipe From Any Image" project uses the power of deep learning to turn food photos into culinary creations.
+# Recipe-Generation-from-Food-Image
 
-**How It Works:**
+### Demo:
+![Recipe_Generation gif](https://user-images.githubusercontent.com/55757415/124395585-8d0d0780-dd22-11eb-86fe-3a23d921b608.gif)
 
-Simply snap a picture of your favorite dish, and our cutting-edge system will analyze it to generate a complete recipe, including:
+Are you ever in the situation where you have a mouthwatering picture of a delicious dish but no idea how to recreate it? Look no further! Our "Recipe Generation from Food Images" project harnesses the power of deep learning to provide you with a solution.
 
-**Tempting Title:** A mouthwatering name to get your taste buds excited.
+### Overview:
 
-**Ingredient Breakdown:** A detailed list of everything you'll need.
+This innovative application uses state-of-the-art deep learning techniques to analyze food images and generate comprehensive cooking recipes. From a simple snapshot of your favorite dish, our system can extract essential information including:
 
-**Step-by-Step Guide:** Clear instructions to make the dish perfectly.
+**Recipe Title**: A catchy and descriptive title for the dish.
+
+**Ingredients**: A detailed list of all the ingredients needed.
+
+**Instructions**: Step-by-step cooking instructions to help you recreate the dish flawlessly.
+
+### Key Features:
+
+**Deep Learning Magic**: Our model employs cutting-edge computer vision algorithms to identify ingredients and cooking processes within food images.
+
+**Natural Language Generation**: It utilizes advanced natural language processing to create coherent and easy-to-follow cooking instructions.
+
+**User-Friendly Interface**: A user-friendly web or mobile interface for hassle-free recipe generation.
+
+**Endless Culinary Exploration**: Discover new recipes and cuisines by simply snapping a picture of any dish.
+
+---
+
+### Prerequisite :
+Download these files and replace it with the files in this folder "Foodimg2Ing/data/"
+
+1. Model (Modelbest.ckpt) : [Download Modelbest.ckpt](https://dl.fbaipublicfiles.com/inversecooking/modelbest.ckpt)
+
+2. Ingredients (ingr_vocab.pkl) : [Download ingr_vocab.pkl](https://dl.fbaipublicfiles.com/inversecooking/ingr_vocab.pkl)
+
+3. Instruction (instr_vocab.pkl) : [Download instr_vocab.pkl](https://dl.fbaipublicfiles.com/inversecooking/instr_vocab.pkl)
+
+### To run the Code :
+
+1. Open Terminal (cmd)
+2. Install all the required libraries using "pip install -r requirements.txt"
+3. run "python run.py"
+
+You will be getting a localhost link and open that link in your browser 
 
 
-**What Makes Us Special?**
-
-**Deep Learning Genius:** Our system uses advanced image recognition to pinpoint ingredients and cooking methods from your food photos.
-
-**Mastering Food Lingo:** We leverage natural language processing to create instructions that are easy to understand and follow.
-
-**Simple to Use:** Our user-friendly web or mobile app makes recipe generation a breeze.
-
-**Endless Food Adventures:** Discover new dishes and cuisines just by snapping a picture!
-
-
-**Ready to Get Cooking?**
-
-Here's how to set up our app and unleash your inner chef:
-
-1. **Download the Magic Files:** Grab the essential files (Modelbest.ckpt, ingr_vocab.pkl, instr_vocab.pkl) and replace the ones in the "Foodimg2Ing/data/" folder.
-2. **Power Up Your Computer:** Open your terminal and install the required libraries using "pip install -r requirements.txt".
-3. **Let's Cook!** Run "python run.py" and a link will appear. Open it in your browser to start creating recipes from any food photo!
-
-**DEMO:-**
-
-![foodreceipe](https://github.com/tiwari20122003/From-Pixel-to-Plate/assets/103639295/06826f82-acf2-4961-8c0f-629a4bec2588)
